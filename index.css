@@ -829,6 +829,20 @@ body {
     border-radius: 50%;
   }
 
+  @media (max-width: 768px) {
+    .review-box{
+      height: 400px;
+      width: auto;
+      color: #cde1f8;
+      
+    }
+    .review-box img{
+      height: 70px;
+      width: 70px;
+    }
+
+  }
+
  
     
   
